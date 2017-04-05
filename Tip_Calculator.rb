@@ -52,3 +52,5 @@ tip_calculator.start
 rescue
   p tip_calculator.bill
 end
+
+    p "String"

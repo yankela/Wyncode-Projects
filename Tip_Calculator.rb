@@ -53,4 +53,5 @@ rescue
   p tip_calculator.bill
 end
 
-p "string"
+
+p "String"
